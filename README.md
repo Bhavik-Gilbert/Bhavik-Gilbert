@@ -48,16 +48,7 @@ Driven by my passion for Tech, I've pursued a range of experiences to expand my 
 
 <a href="https://github.com/Bhavik-Gilbert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-Gilbert&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="top">
-<a href="https://github.com/Bhavik-Gilbert/Bhavik-Gilbert.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavik-Gilbert&repo=Bhavik-Gilbert.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Bhavik-Gilbert/Greggor-Financial-Companion"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavik-Gilbert&repo=Greggor-Financial-Companion&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Bhavik-Gilbert/ROS-Room-Inventory-Scanner"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavik-Gilbert&repo=ROS-Room-Inventory-Scanner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Bhavik-Gilbert/Facial-Recognition"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavik-Gilbert&repo=Facial-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Bhavik-Gilbert/Kepler-Data" ><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavik-Gilbert&repo=Kepler-Data&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 Feel free to check out any of my repositories.
 <!--
 **Bhavik-Gilbert/Bhavik-Gilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
